@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/FH-Wi17-CS1C-31038/Joffer2015-project01.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Joffer2015/test02.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Joffer01/test002" />
   </component>
 </application>
