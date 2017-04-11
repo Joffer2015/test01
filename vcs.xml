@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Fejomin/new.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FH-Sp17-CS1C-40925/Fejomin-project01.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/Fejomin" />
